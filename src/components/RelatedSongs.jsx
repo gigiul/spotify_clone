@@ -1,5 +1,5 @@
 const RelatedSongs = () => (
-  <div>Loader</div>
+  <div>asd</div>
 );
 
 export default RelatedSongs;
